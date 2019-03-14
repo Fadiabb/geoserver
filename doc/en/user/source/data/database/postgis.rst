@@ -62,7 +62,9 @@ To begin, navigate to :menuselection:`Stores --> Add a new store --> PostGIS NG`
    * - :guilabel:`Loose bbox`
      - Performs only the primary filter on the bounding box.  See the section on :ref:`postgis_loose_bbox` for details.
    * - :guilabel:`preparedStatements`
-     - Enables prepared statements.
+     - Enables prepared statements
+   * - :guilabel:`Estimated extends`
+     - Enables the usage of estimated extents.
 
 When finished, click :guilabel:`Save`.
 
